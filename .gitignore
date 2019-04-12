@@ -1,0 +1,18 @@
+/.bundle
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+/storage/*
+!/storage/.keep
+.byebug_history
+/config/master.key
+
+# Environment variables
+.env
+.env.rspec
+.gems
+coverage/
+*.png
+*.csv
+*.txt
